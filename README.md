@@ -9,7 +9,7 @@ Analyze risk, return, and drawdowns for major ETFs using Python.
 
 ## 🚀 Live App
 
-[👉 Launch Streamlit App](https://pe-vs-returns-app-kczxcru9prcdwwdhbsmr9w.streamlit.app/)
+[👉 Launch Streamlit App](https://etf-strategy-simulator-cxftn9v5qsjftsmygrmh89.streamlit.app/)
 
 ---
 
